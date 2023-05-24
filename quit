@@ -1,0 +1,48 @@
+[33mcommit aad887d6d17b9456c589291268f740a765ace230[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 11c89ad 5953348
+Author: green <green@naver.com>
+Date:   Tue May 23 13:01:27 2023 +0900
+
+    merge
+
+[33mcommit 11c89ad820197d8ca7b205ec24617413d160d11d[m
+Author: green <green@naver.com>
+Date:   Tue May 23 12:53:38 2023 +0900
+
+    modify dog frodo
+
+[33mcommit 595334884d11b5aa759cc30c58c2595b0b4233cd[m[33m ([m[1;32mconTest[m[33m)[m
+Author: green <green@naver.com>
+Date:   Tue May 23 12:51:57 2023 +0900
+
+    modify dog maroon
+
+[33mcommit 1a46c5ee6a5efa8d1396f9e42447850ce820f4ff[m[33m ([m[1;32mmy_test_idea[m[33m, [m[1;32mmy_idea[m[33m)[m
+Author: green <green@naver.com>
+Date:   Tue May 23 12:25:09 2023 +0900
+
+    last commit
+
+[33mcommit e528ac71122f7154aa5a4f2969ce39109e12395e[m
+Author: green <green@naver.com>
+Date:   Tue May 23 12:05:58 2023 +0900
+
+    add raccoon modify dog
+
+[33mcommit 52c5333093d7d782964d2162b94cf44bae5508e0[m
+Author: green <green@naver.com>
+Date:   Tue May 23 11:10:16 2023 +0900
+
+    Add Modify Delete
+
+[33mcommit efeccb7fcb7a7f90b516a689d33e125ee31a4d0c[m
+Author: green <green@naver.com>
+Date:   Tue May 23 11:00:00 2023 +0900
+
+    add dog
+
+[33mcommit 4db5c62c0be26d4a6e695b3b9ef64bf9ba194ed8[m
+Author: green <green@naver.com>
+Date:   Tue May 23 10:58:45 2023 +0900
+
+    first commit
